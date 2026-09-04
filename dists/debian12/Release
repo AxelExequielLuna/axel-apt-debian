@@ -2,37 +2,19 @@ Origin: Axel APT (Debian)
 Label: Axel APT (Debian)
 Suite: stable
 Codename: debian12
-Date: Fri, 04 Sep 2026 19:46:15 UTC
-Architectures: amd64 arm64 i386
+Date: Fri, 04 Sep 2026 19:54:07 UTC
+Architectures: amd64
 Components: main
 Description: Axel's apps for Debian-based Mint (LMDE)
 MD5Sum:
  ba27a66b64c1d2bea5cb62e96617e66c 1000 main/binary-amd64/Packages
  70d2af97e68412611cd07e3f22d44f9c 636 main/binary-amd64/Packages.gz
  06f0b678a8ae2877aab68567f8b44130 157 main/binary-amd64/Release
- ba27a66b64c1d2bea5cb62e96617e66c 1000 main/binary-arm64/Packages
- 70d2af97e68412611cd07e3f22d44f9c 636 main/binary-arm64/Packages.gz
- dfa801bdfe6a519286aba67e007beece 157 main/binary-arm64/Release
- ba27a66b64c1d2bea5cb62e96617e66c 1000 main/binary-i386/Packages
- 70d2af97e68412611cd07e3f22d44f9c 636 main/binary-i386/Packages.gz
- 72e796acc11ac278406a54eac7f01cb2 156 main/binary-i386/Release
 SHA1:
  ecef5a1402aed0b6523cd3dfbcb0eb728275a816 1000 main/binary-amd64/Packages
  b5af40498d22ec8b673eeef97c126979208eb77b 636 main/binary-amd64/Packages.gz
  709dbbd03e47a81d1a9eb4ad8ad2df4a02d7b4cf 157 main/binary-amd64/Release
- ecef5a1402aed0b6523cd3dfbcb0eb728275a816 1000 main/binary-arm64/Packages
- b5af40498d22ec8b673eeef97c126979208eb77b 636 main/binary-arm64/Packages.gz
- 4c6351bc62f02cc4b0c3ec179d433a47409339f0 157 main/binary-arm64/Release
- ecef5a1402aed0b6523cd3dfbcb0eb728275a816 1000 main/binary-i386/Packages
- b5af40498d22ec8b673eeef97c126979208eb77b 636 main/binary-i386/Packages.gz
- e6df04d7d037380cc345d63f974f23b5a759cacc 156 main/binary-i386/Release
 SHA256:
  a3a1e0dd0757086d2fce85809d01bcadf9585d118a6c327cf37f62161ac90dcf 1000 main/binary-amd64/Packages
  3858710da8f9556e4f1b2cce170f52be106ebed361d32483c6e50d8c79ab101a 636 main/binary-amd64/Packages.gz
  9fbd1f8758dbab18af6ed6fdb72aa5562d8e4292867544a3f8c4ad9f36b3e621 157 main/binary-amd64/Release
- a3a1e0dd0757086d2fce85809d01bcadf9585d118a6c327cf37f62161ac90dcf 1000 main/binary-arm64/Packages
- 3858710da8f9556e4f1b2cce170f52be106ebed361d32483c6e50d8c79ab101a 636 main/binary-arm64/Packages.gz
- 9a18523302766db6405f6afcc00b8793f26bb4e001625e6726397386ec066b5f 157 main/binary-arm64/Release
- a3a1e0dd0757086d2fce85809d01bcadf9585d118a6c327cf37f62161ac90dcf 1000 main/binary-i386/Packages
- 3858710da8f9556e4f1b2cce170f52be106ebed361d32483c6e50d8c79ab101a 636 main/binary-i386/Packages.gz
- ef2ab5aaf3b85f3ed23bdd9077d85757bf29e92d9dfba813f8b01b07b2de33f5 156 main/binary-i386/Release
