@@ -1,0 +1,17 @@
+Origin: Axel APT (Debian)
+Label: Axel APT (Debian)
+Suite: stable
+Codename: debian12
+Components: main
+Architectures: all
+SignWith: yes
+Description: Axel's apps for Debian-based Mint (LMDE)
+
+Origin: Axel APT (Debian)
+Label: Axel APT (Debian)
+Suite: stable
+Codename: debian13
+Components: main
+Architectures: all
+SignWith: yes
+Description: Axel's apps for Debian-based Mint (LMDE)
