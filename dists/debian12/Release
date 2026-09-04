@@ -2,19 +2,19 @@ Origin: Axel APT (Debian)
 Label: Axel APT (Debian)
 Suite: stable
 Codename: debian12
-Date: Fri, 04 Sep 2026 18:55:53 UTC
+Date: Fri, 04 Sep 2026 19:13:20 UTC
 Architectures: amd64
 Components: main
 Description: Axel's apps for Debian-based Mint (LMDE)
 MD5Sum:
- 78ee432f11f4fc2c6537d7577cb5dc78 982 main/binary-amd64/Packages
- 01fe6d48172728d36d1d267fe30787ba 630 main/binary-amd64/Packages.gz
+ ba27a66b64c1d2bea5cb62e96617e66c 1000 main/binary-amd64/Packages
+ 70d2af97e68412611cd07e3f22d44f9c 636 main/binary-amd64/Packages.gz
  06f0b678a8ae2877aab68567f8b44130 157 main/binary-amd64/Release
 SHA1:
- cb8b7c4a97da365b3de455b20cec92895e1d4169 982 main/binary-amd64/Packages
- 7c429c034cf57618f6e8b909e9aa9dc1650a829d 630 main/binary-amd64/Packages.gz
+ ecef5a1402aed0b6523cd3dfbcb0eb728275a816 1000 main/binary-amd64/Packages
+ b5af40498d22ec8b673eeef97c126979208eb77b 636 main/binary-amd64/Packages.gz
  709dbbd03e47a81d1a9eb4ad8ad2df4a02d7b4cf 157 main/binary-amd64/Release
 SHA256:
- 13fe91f76cdfc8a335fe8d7147866c9b64367e290e432f79088befddb419d5f3 982 main/binary-amd64/Packages
- 029c5b4eaab3a2407f4c5e3f6d87eaa9146afed2f074264169104a8ce7f34e6f 630 main/binary-amd64/Packages.gz
+ a3a1e0dd0757086d2fce85809d01bcadf9585d118a6c327cf37f62161ac90dcf 1000 main/binary-amd64/Packages
+ 3858710da8f9556e4f1b2cce170f52be106ebed361d32483c6e50d8c79ab101a 636 main/binary-amd64/Packages.gz
  9fbd1f8758dbab18af6ed6fdb72aa5562d8e4292867544a3f8c4ad9f36b3e621 157 main/binary-amd64/Release
