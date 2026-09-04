@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Axel APT (Debian)
+Label: Axel APT (Debian)
+Suite: stable
+Codename: debian13
+Date: Fri, 04 Sep 2026 19:00:33 UTC
+Architectures: amd64
+Components: main
+Description: Axel's apps for Debian-based Mint (LMDE)
+MD5Sum:
+ ebca4da569ae985f0629dad7f5c2be25 982 main/binary-amd64/Packages
+ a195e25d234a6fcf5a52e89bf85ea9a8 631 main/binary-amd64/Packages.gz
+ 06f0b678a8ae2877aab68567f8b44130 157 main/binary-amd64/Release
+SHA1:
+ 02f00cf25345868fb65175d11cdc7a0f7a151301 982 main/binary-amd64/Packages
+ b439f2807e08bdaf4d7b3f5098ffa6841ad141af 631 main/binary-amd64/Packages.gz
+ 709dbbd03e47a81d1a9eb4ad8ad2df4a02d7b4cf 157 main/binary-amd64/Release
+SHA256:
+ 1c912a14440ca49286d9b9aa7f271ba6b0547ab1dc0a36e136b2f4c57a82abd2 982 main/binary-amd64/Packages
+ 558c5380526493f2f7e1e8ed04b9ca8696be17ec808854657373686c36073da8 631 main/binary-amd64/Packages.gz
+ 9fbd1f8758dbab18af6ed6fdb72aa5562d8e4292867544a3f8c4ad9f36b3e621 157 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQHuT4kdybqvh+SC0XwKh+neD2j0gUCapsVUQAKCRDwKh+neD2j
+0kBYAP951R0adRyGIV/8nLzK28xPvANVkolqCgPdd98kTZAM0AEA9kDTbSb++j1/
+TNuAgrYDzGqxsAMRQqTJm5ZqO0NlUgo=
+=mxdA
+-----END PGP SIGNATURE-----
