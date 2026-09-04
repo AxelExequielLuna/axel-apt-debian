@@ -1,30 +1,30 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
+Hash: SHA512
 
 Origin: Axel APT (Debian)
 Label: Axel APT (Debian)
 Suite: stable
 Codename: debian12
-Date: Fri, 04 Sep 2026 19:54:07 UTC
+Date: Fri, 04 Sep 2026 20:54:18 UTC
 Architectures: amd64
 Components: main
 Description: Axel's apps for Debian-based Mint (LMDE)
 MD5Sum:
- ba27a66b64c1d2bea5cb62e96617e66c 1000 main/binary-amd64/Packages
- 70d2af97e68412611cd07e3f22d44f9c 636 main/binary-amd64/Packages.gz
+ d575875341da69c589ce0c787cb26b6a 1000 main/binary-amd64/Packages
+ c2281ed1e86a0b10ba9ba70746285797 637 main/binary-amd64/Packages.gz
  06f0b678a8ae2877aab68567f8b44130 157 main/binary-amd64/Release
 SHA1:
- ecef5a1402aed0b6523cd3dfbcb0eb728275a816 1000 main/binary-amd64/Packages
- b5af40498d22ec8b673eeef97c126979208eb77b 636 main/binary-amd64/Packages.gz
+ 65c3ceee67ca9ba1d432d93938c9a1d42eee0e26 1000 main/binary-amd64/Packages
+ c6b11c61341d5e08021f37b01154cb784115a2a9 637 main/binary-amd64/Packages.gz
  709dbbd03e47a81d1a9eb4ad8ad2df4a02d7b4cf 157 main/binary-amd64/Release
 SHA256:
- a3a1e0dd0757086d2fce85809d01bcadf9585d118a6c327cf37f62161ac90dcf 1000 main/binary-amd64/Packages
- 3858710da8f9556e4f1b2cce170f52be106ebed361d32483c6e50d8c79ab101a 636 main/binary-amd64/Packages.gz
+ e9bd07fce71d284c8ca8d98c4f054c68a6dcb19a117d19cac27687e156c13d9f 1000 main/binary-amd64/Packages
+ 354eb2cfcd4aefada91232d3740f06e2123e440ade8156c28f1b60bec55ac93f 637 main/binary-amd64/Packages.gz
  9fbd1f8758dbab18af6ed6fdb72aa5562d8e4292867544a3f8c4ad9f36b3e621 157 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQQHuT4kdybqvh+SC0XwKh+neD2j0gUCapsh3wAKCRDwKh+neD2j
-0tI1AQCXBet8Kmv2rnOuAUr9MuNcdlgyXI1hoWn8WCnW9gb93QD/UfhdSow8xGQg
-9cRXYdicdJ5W5E/xK9QE1ekVIyLUfAo=
-=IKr0
+iHUEARYKAB0WIQQHuT4kdybqvh+SC0XwKh+neD2j0gUCapsv+gAKCRDwKh+neD2j
+0n4IAQDXTancdmreOM8cygRmocgp+289J3xoG3nl1J7yiZpxbgD/RKSKQwoGj/ll
+Xn201+Z3diq7Jzy9eMQt6FeO/rqYtQY=
+=YBAK
 -----END PGP SIGNATURE-----
