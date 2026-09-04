@@ -3,7 +3,7 @@ Label: Axel APT (Debian)
 Suite: stable
 Codename: debian12
 Components: main
-Architectures: amd64
+Architectures: amd64 arm64 i386
 SignWith: yes
 Description: Axel's apps for Debian-based Mint (LMDE)
 
@@ -12,6 +12,6 @@ Label: Axel APT (Debian)
 Suite: stable
 Codename: debian13
 Components: main
-Architectures: amd64
+Architectures: amd64 arm64 i386
 SignWith: yes
 Description: Axel's apps for Debian-based Mint (LMDE)

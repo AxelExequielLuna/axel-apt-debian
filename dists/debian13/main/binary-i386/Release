@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: Axel APT (Debian)
+Label: Axel APT (Debian)
+Architecture: i386
+Description: Axel's apps for Debian-based Mint (LMDE)
