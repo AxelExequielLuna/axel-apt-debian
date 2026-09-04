@@ -2,19 +2,19 @@ Origin: Axel APT (Debian)
 Label: Axel APT (Debian)
 Suite: stable
 Codename: debian13
-Date: Fri, 04 Sep 2026 19:54:07 UTC
+Date: Fri, 04 Sep 2026 20:54:50 UTC
 Architectures: amd64
 Components: main
 Description: Axel's apps for Debian-based Mint (LMDE)
 MD5Sum:
- 2e15ece471bcb9e15ca72441a5aa6817 1000 main/binary-amd64/Packages
- 84940fa83dfada82b1a92ab1ac99aa44 637 main/binary-amd64/Packages.gz
+ d4e8028078e1fb01d0a8912184b90f9b 1000 main/binary-amd64/Packages
+ 36ad822b11d23e22913f7cbadba62802 635 main/binary-amd64/Packages.gz
  06f0b678a8ae2877aab68567f8b44130 157 main/binary-amd64/Release
 SHA1:
- 00e56f3577f0033e04b31f771da7b522bc9942ef 1000 main/binary-amd64/Packages
- 7dccfb2df353d026b9b08238668191af7ba60b1b 637 main/binary-amd64/Packages.gz
+ 36ca53f829a8c75bfc2a730e818d7a6956a71062 1000 main/binary-amd64/Packages
+ 4e79bce9ab7c68ad0cdae0fd52b09be0b074da92 635 main/binary-amd64/Packages.gz
  709dbbd03e47a81d1a9eb4ad8ad2df4a02d7b4cf 157 main/binary-amd64/Release
 SHA256:
- 5197387cd940e0333b688d16a02098b8c51f530ca399856e493fc078644cf52c 1000 main/binary-amd64/Packages
- fbb2e39606fc044818d806229d654a99464be8f154d9a70e2ae2ae9be3be8fb0 637 main/binary-amd64/Packages.gz
+ 5040f9e699fa0c098576d07a78b60afd04691990d4aa34e18e6dab0ab6653650 1000 main/binary-amd64/Packages
+ 90bb851305416582edcd9efca2c5f88cd8801b51d4264a03484b9b7ac08ee8a3 635 main/binary-amd64/Packages.gz
  9fbd1f8758dbab18af6ed6fdb72aa5562d8e4292867544a3f8c4ad9f36b3e621 157 main/binary-amd64/Release
